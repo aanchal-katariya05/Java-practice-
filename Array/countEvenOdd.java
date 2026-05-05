@@ -1,4 +1,4 @@
-public class countEvenOdd {
+public class CountEvenOdd {
     public static void main(String[] args) {
        int arr[] = {2, 5, 6, 3, 8, 4 , 10};
        int evenCount = 0;

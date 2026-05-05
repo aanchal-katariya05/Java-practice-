@@ -1,4 +1,4 @@
-public class newArr {
+public class NewArr {
     public static void main(String[] args) {
         int arr[] = {1, 2, 3, 4};
         
