@@ -1,3 +1,6 @@
+package Inheritance;
+
+
 class Animal {
     
     void eat() {
@@ -20,4 +23,4 @@ class Animal {
     
     }
 }
-   
+

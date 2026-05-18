@@ -1,4 +1,4 @@
-
+package classPractice;
 
 public class Stud {
     String name ;
