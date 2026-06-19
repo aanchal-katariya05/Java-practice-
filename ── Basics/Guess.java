@@ -1,5 +1,8 @@
-import.java.util.Scanner;
+
 // guess the number game 
+
+import java.util.Scanner;
+
 public class Guess {
     public static void main (String args[]){
         Scanner sc = new Scanner(System.in);
