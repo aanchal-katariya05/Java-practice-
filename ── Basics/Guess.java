@@ -1,4 +1,3 @@
-
 // guess the number game 
 
 import java.util.Scanner;
